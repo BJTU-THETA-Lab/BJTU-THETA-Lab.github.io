@@ -5,23 +5,48 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "首页"
+    url: ""
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "实验室概况"
+    url: "#About"
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "新闻动态"
+    url: "/News"
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "招生招聘"
+    url: "/Recruit"
+
+  - title: "师资力量"
+    url: "/Teacher"
+
+  - title: "人才培养"
+    url: "/Students"
+
+  - title: "科研成果"
+    url: "/Research"
+
+  - title: "联系我们"
+    url: "/Contact"
+
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
