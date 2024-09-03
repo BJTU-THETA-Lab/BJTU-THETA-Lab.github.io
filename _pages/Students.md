@@ -4,7 +4,7 @@ title: "人才培养"
 author_profile: true
 ---
 
-- [在读研究生1](#ZaiDuYanJiuSheng)
+- [在读研究生](#ZaiDuYanJiuSheng)
 - [毕业生去向](#BiYeShengQuXiang)
 
 <span class='anchor' id='ZaiDuYanJiuSheng'></span>
@@ -55,15 +55,10 @@ author_profile: true
   - 吴亚伦，毕业去向：北京交通大学读博
 
 - **2021届：**
-
   - 何奕霏，毕业去向：阿里巴巴
-
   - 王硕汝，毕业去向：北京市城建局<font color="blue">（院优秀毕业论文）</font>
-
   - 王潇瑾，毕业去向：Conservatoire National des Arts et Métiers<font color="blue">（院优秀毕业论文）</font>
-
   - 李赫，毕业去向：字节跳动
-
   - 宋明璐，毕业去向：中国民生银行
 
 - **2020届：**
