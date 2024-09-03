@@ -4,7 +4,7 @@ title: "人才培养"
 author_profile: true
 ---
 
-- [在读研究生](#<span class='anchor' id='ZaiDuYanJiuSheng'></span>)
+- [在读研究生1](#ZaiDuYanJiuSheng)
 - [毕业生去向](#BiYeShengQuXiang)
 
 <span class='anchor' id='ZaiDuYanJiuSheng'></span>
